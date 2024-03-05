@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Macintosh%20HD/zenml/mlruns/888966588440191297/6d61ed3332844b95a306deccc5ea7521/artifacts
+end_time: 1704814164052
+entry_point_name: ''
+experiment_id: '888966588440191297'
+lifecycle_stage: active
+run_id: 6d61ed3332844b95a306deccc5ea7521
+run_name: entertaining-yak-152
+run_uuid: 6d61ed3332844b95a306deccc5ea7521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704814164027
+status: 3
+tags: []
+user_id: apple

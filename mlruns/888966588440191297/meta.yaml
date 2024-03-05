@@ -1,0 +1,6 @@
+artifact_location: file:///Volumes/Macintosh%20HD/zenml/mlruns/888966588440191297
+creation_time: 1704814163779
+experiment_id: '888966588440191297'
+last_update_time: 1704814163779
+lifecycle_stage: active
+name: mlflow-experiment

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355599958095485145/c618b1555b7747498c8f14f042f93fc4/artifacts
+end_time: 1704726245455
+entry_point_name: ''
+experiment_id: '355599958095485145'
+lifecycle_stage: active
+run_id: c618b1555b7747498c8f14f042f93fc4
+run_name: capricious-loon-713
+run_uuid: c618b1555b7747498c8f14f042f93fc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704726237308
+status: 3
+tags: []
+user_id: apple

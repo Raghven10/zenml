@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/166121845841709032/90276086ff8e4eaeaa9ddadd2ffa117b/artifacts
+deleted_time: 1704725519297
+end_time: 1704725438471
+entry_point_name: ''
+experiment_id: '166121845841709032'
+lifecycle_stage: deleted
+run_id: 90276086ff8e4eaeaa9ddadd2ffa117b
+run_name: overjoyed-boar-453
+run_uuid: 90276086ff8e4eaeaa9ddadd2ffa117b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704725438438
+status: 3
+tags: []
+user_id: apple

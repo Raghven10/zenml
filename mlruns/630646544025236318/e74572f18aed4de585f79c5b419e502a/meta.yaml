@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630646544025236318/e74572f18aed4de585f79c5b419e502a/artifacts
+end_time: 1704725268995
+entry_point_name: ''
+experiment_id: '630646544025236318'
+lifecycle_stage: active
+run_id: e74572f18aed4de585f79c5b419e502a
+run_name: able-sponge-489
+run_uuid: e74572f18aed4de585f79c5b419e502a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704725268958
+status: 3
+tags: []
+user_id: apple
